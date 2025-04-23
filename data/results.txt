@@ -1,0 +1,6 @@
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\Args.java
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\ArgsParser.java
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\FileSearcher.java
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\Finder.java
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\ResultWriter.java
+C:\projects\job4j_finder\src\main\java\ru\job4j\finder\SearchFiles.java
