@@ -1,0 +1,29 @@
+# Ignore compiled binary files
+*.o
+*.so
+*.exe
+*.dll
+*.class
+
+# Ignore build directories
+target
+build/
+bin/
+out/
+
+# CMake files (if not needed)
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
